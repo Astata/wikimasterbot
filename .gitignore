@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+accounts.yaml
+
+# Virtual environments
+.venv
+
+# Local scratch files
+tmp/
+
+# secrets
+.env
+*local
+*.secret.*
+*.secrets.*
+
+

@@ -1,0 +1,7 @@
+accounts:
+  - name: account1
+    email: user1@example.com
+    password: changeme
+  - name: account2
+    email: user2@example.com
+    password: changeme
