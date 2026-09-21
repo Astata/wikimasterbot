@@ -27,7 +27,7 @@
      - name: MonCompte
        email: votre_email@example.com
        password: votre_mot_de_passe
-
+Fait a l'aide de l'ia
    
  # 🤖 Wikimaster Bot 24/7 
 
@@ -49,6 +49,7 @@ Automation bot to open your card packs on wiki-masters.com continuously 24/7.
   - `Q`: Safely terminate the bot and save all progress.
 - **One-Click Launch**: Easily run the bot using `run.bat` without manual command-line entry.
 
+Created using AI
 ---
 
 ## 🚀 Setup & Usage
@@ -57,3 +58,5 @@ Automation bot to open your card packs on wiki-masters.com continuously 24/7.
 ```bash
 uv sync
 uv run playwright install chromium
+
+Created using AI
