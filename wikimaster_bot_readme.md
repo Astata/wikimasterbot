@@ -3,7 +3,8 @@
 [FR] Bot d'automatisation pour ouvrir vos paquets sur wiki-masters.com en continu 24h/24.  
 [EN] Automation bot to open your card packs on wiki-masters.com continuously 24/7.
 
-> **Credits:** Forked from the original project by [loiclovitana/wikimasterbot](https://github.com/loiclovitana/wikimasterbot).
+> **Credits:** Forked from the original project by [loiclovitana/wikimasterbot](https://github.com/loiclovitana/wikimasterbot).  
+> **Development:** Extended & modified with the help of Gemini.
 
 ---
 
@@ -29,7 +30,6 @@ uv run playwright install chromium
 
 #### 2. Configuration des comptes
 Dupliquez le fichier `accounts-template.yaml` en `accounts.yaml` et ajoutez vos identifiants :
-
 ```yaml
 accounts:
   - name: MonCompte
@@ -41,7 +41,6 @@ accounts:
 
 #### 3. Démarrage du bot
 Double-cliquez simplement sur **`run.bat`** (ou lancez via la console) :
-
 ```cmd
 py main.py
 ```
@@ -70,7 +69,6 @@ uv run playwright install chromium
 
 #### 2. Configure Credentials
 Copy `accounts-template.yaml` to `accounts.yaml` and enter your login details:
-
 ```yaml
 accounts:
   - name: Account1
@@ -82,7 +80,6 @@ accounts:
 
 #### 3. Run the Bot
 Simply double-click on **`run.bat`** (or execute from terminal):
-
 ```cmd
 py main.py
 ```
