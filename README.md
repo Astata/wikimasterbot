@@ -1,10 +1,10 @@
-# 🤖 Wikimaster Bot 24/7
+# 🤖 Wikimaster Bot 24/7 
 
 [FR] Bot d'automatisation pour ouvrir vos paquets sur wiki-masters.com en continu 24h/24.  
 [EN] Automation bot to open your packs on wiki-masters.com continuously 24/7.
 
 > **Credits:** Forked from the original project by [loiclovitana/wikimasterbot](https://github.com/loiclovitana/wikimasterbot).
-
+Gemini AI
 ---
 
 ## 🇫🇷 Français
@@ -27,7 +27,6 @@
      - name: MonCompte
        email: votre_email@example.com
        password: votre_mot_de_passe
-Fait a l'aide de l'ia
    
  # 🤖 Wikimaster Bot 24/7 
 
@@ -58,5 +57,3 @@ Created using AI
 ```bash
 uv sync
 uv run playwright install chromium
-
-Created using AI
